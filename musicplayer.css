@@ -1,0 +1,44 @@
+body {
+  background-color: #121212;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+}
+
+.player {
+  background-color: #1e1e1e;
+  width: 300px;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.album {
+  background-color: #333;
+  height: 180px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #aaa;
+  margin-bottom: 15px;
+}
+
+.artist {
+  color: #bbb;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+audio {
+  width: 100%;
+  margin-top: 10px;
+}
+.image 
+{
+  height: 170px;
+  border-radius: 10px;
+}
